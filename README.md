@@ -12,3 +12,4 @@ full form of ICT is
 <main>   courage
 <hr>
 <section> in this section of  file
+<input type="text" new and uniq file/>
