@@ -9,7 +9,7 @@ full form of ICT is
 </pre>
 <header> new and uniq file
 <hr>
-<main>   courage
+<main>  <span style="colour:rgb(0,0,0)"> courage</span>
 <hr>
 <section> in this section of  file
-<input type="text" new and uniq file/>
+<input type="text" name="file" new and uniq file/>
